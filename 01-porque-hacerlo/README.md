@@ -1,6 +1,6 @@
 # [<-](../README.md) 01 ¿Porque hacerlo? 
 
-Antes de entrar en detalle de como se usa, voy a explicar los problemas que resuelve 
+Creo que la mejor forma de responder a la pregunta del `¿Porque hacerlo?` es explicar los problemas que resuelve 
 
 ## `ts-check` y `eslint`
 
@@ -30,7 +30,7 @@ También se puede dar el caso de que sepamos que es lo que estamos manejando y e
 
 ```js
 const resp = await fetch('https://skapxd.dev/api/user')
-// Nosotros sabemos que propiedades tiene el objeto `user` pero el editor no
+// Nosotros sabemos las propiedades del objeto `user` pero el editor no
 const user = await resp.json()
 
 /** user.??? */
