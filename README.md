@@ -8,4 +8,6 @@ Muchachos, muchas gracias por haber venido, para mi es un gusto compartir este e
 
 ## 3. [Formateo auto mágico del código](./03-formateo-auto-magico-del-codigo/README.md)
 
-## [¿Que es jsconfig.json](./xx-que-es-jsconfig.json/README.md)
+## xx. [¿Que es jsconfig.json](./xx-que-es-jsconfig.json/README.md)
+
+## xx. [Que son las rutas semi-absolutas](./xx-rutas-semi-absolutas/README.md)
