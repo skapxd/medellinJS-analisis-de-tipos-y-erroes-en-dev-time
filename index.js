@@ -9,3 +9,8 @@ let person = 0
 
 
 person.toFixed
+
+const a = null
+
+
+const { } = a 

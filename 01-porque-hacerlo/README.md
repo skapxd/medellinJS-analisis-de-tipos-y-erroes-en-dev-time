@@ -56,6 +56,16 @@ const user = await resp.json()
 /** user.??? */
 ```
 
+## Detectar variables nulas con `strictNullChecks`
+
+Imaginemos el siguiente escenario 
+
+```js 
+const user = null
+
+const {ig, address, name, age} = user 
+```
+
 ## Mejorando la legibilidad de los errores con las extensiones `Eslint` y `Error Lens`  
 
 Estas extensiones de `vscode` solo son útiles si se realizan los pasos anteriores
