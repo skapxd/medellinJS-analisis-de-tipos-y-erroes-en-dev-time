@@ -3,8 +3,8 @@
         "checkJs": true,
         "baseUrl": ".",
         "paths": {
-            "#/*": "./**"
+            "#/*": ["./*"]
         },
     },
-    "include": ["custom.d.ts", "./main.js"]
+    "include": ["custom.d.ts", "src/main.js"]
 }
